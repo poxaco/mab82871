@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ed085b55142f52b66ddfbdef053562ae
 "assets/AssetManifest.bin.json": "0b8a85b8a7a8540aa1cff97c9cca43d7",
 "assets/AssetManifest.json": "6429cdf99cfae215a88f3f0085b89fed",
 "assets/assets/audios/sonido.mp3": "39c534142f07519738141dbf1a108a0f",
-"assets/assets/collection/collection.txt": "00d70a471879136635979f5441e3da51",
+"assets/assets/collection/collection.txt": "26e669f1bc2a37e89c3a7743b9eeb1bb",
 "assets/assets/collection/data.txt": "a83f0f76c2afad4f5d7260824430b798",
 "assets/assets/images/bancolombiacargando.jpg": "e7baff9e000673e0a61ef367ae7dc1cd",
 "assets/assets/images/cara3.jpg": "b4734e143b445b5876b5e49a60db4015",
@@ -40,10 +40,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "ed085b55142f52b66ddfbdef053562ae
 "canvaskit/skwasm_heavy.js.symbols": "3c01ec03b5de6d62c34e17014d1decd3",
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "eab89b32f6e04b1c4f5dce1827daad88",
+"flutter_bootstrap.js": "0923695a3b09a4b2508e942d38d79ed1",
 "index.html": "be601b7fd254eb2394ef91032f52746c",
 "/": "be601b7fd254eb2394ef91032f52746c",
-"main.dart.js": "f342a9e1ba9a97849ca18622b877950f",
+"main.dart.js": "15b95b4ed4f7efe0d6e05ad8d4f17f43",
 "manifest.json": "0a00b87b6672f24bb07dde1bf817d38b",
 "version.json": "cd38341cb4bf9e0c48227aabe9e4f3d7"};
 // The application shell files that are downloaded before a service worker can

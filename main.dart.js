@@ -89747,7 +89747,7 @@ var $async$zI=A.x(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:p=t.N
 o=t.K
 s=2
-return A.D(q.rD(A.Y(["pse",A.b([A.Y(["valor","pse1","texto","TARJETAS","activa",!0],p,o),A.Y(["valor","pse1","texto","BAN100","activa",!0],p,o),A.Y(["valor","pse2","texto","BANCAMIA S.A.","activa",!0],p,o),A.Y(["valor","pse3","texto","BANCO AGRARIO","activa",!0],p,o),A.Y(["valor","pse4","texto","BANCO AV VILLAS","activa",!0],p,o),A.Y(["valor","pse5","texto","BANCO CAJA SOCIAL","activa",!0],p,o),A.Y(["valor","pse6","texto","BANCO COOPERATIVO COOPCENTRAL","activa",!0],p,o),A.Y(["valor","pse7","texto","BANCO DE BOGOTA","activa",!0],p,o),A.Y(["valor","pse8","texto","BANCO DE OCCIDENTE","activa",!0],p,o),A.Y(["valor","pse9","texto","BANCO FALABELLA ","activa",!0],p,o),A.Y(["valor","pse10","texto","BANCO FINANDINA S.A. BIC","activa",!0],p,o),A.Y(["valor","pse11","texto","BANCO GNB SUDAMERIS","activa",!0],p,o),A.Y(["valor","pse12","texto","BANCO ITAU","activa",!0],p,o),A.Y(["valor","pse13","texto","BANCO PICHINCHA S.A.","activa",!0],p,o),A.Y(["valor","pse14","texto","BANCO POPULAR","activa",!0],p,o),A.Y(["valor","pse15","texto","BANCO SANTANDER COLOMBIA","activa",!0],p,o),A.Y(["valor","pse16","texto","BANCO SERFINANZA","activa",!0],p,o),A.Y(["valor","pse17","texto","BANCO UNION antes GIROS","activa",!0],p,o),A.Y(["valor","pse18","texto","BANCOLOMBIA","activa",!0],p,o),A.Y(["valor","pse19","texto","BANCOOMEVA S.A.","activa",!0],p,o),A.Y(["valor","pse20","texto","CFA COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse21","texto","CITIBANK ","activa",!0],p,o),A.Y(["valor","pse22","texto","COLTEFINANCIERA","activa",!0],p,o),A.Y(["valor","pse23","texto","CONFIAR COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse24","texto","COOFINEP COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse25","texto","COTRAFA","activa",!0],p,o),A.Y(["valor","pse26","texto","DALE","activa",!0],p,o),A.Y(["valor","pse27","texto","NEQUI","activa",!0],p,o),A.Y(["valor","pse28","texto","IRIS","activa",!0],p,o),A.Y(["valor","pse29","texto","LULO BANK","activa",!0],p,o),A.Y(["valor","pse30","texto","MOVII S.A.","activa",!0],p,o),A.Y(["valor","pse31","texto","RAPPIPAY","activa",!0],p,o),A.Y(["valor","pse32","texto","SCOTIABANK COLPATRIA","activa",!0],p,o)],t.Mq)],p,t.JD)),$async$zI)
+return A.D(q.rD(A.Y(["pse",A.b([A.Y(["valor","pse1","texto","BAN100","activa",!0],p,o),A.Y(["valor","pse2","texto","BANCAMIA S.A.","activa",!0],p,o),A.Y(["valor","pse3","texto","BANCO AGRARIO","activa",!0],p,o),A.Y(["valor","pse4","texto","BANCO AV VILLAS","activa",!0],p,o),A.Y(["valor","pse5","texto","BANCO CAJA SOCIAL","activa",!0],p,o),A.Y(["valor","pse6","texto","BANCO COOPERATIVO COOPCENTRAL","activa",!0],p,o),A.Y(["valor","pse7","texto","BANCO DE BOGOTA","activa",!0],p,o),A.Y(["valor","pse8","texto","BANCO DE OCCIDENTE","activa",!0],p,o),A.Y(["valor","pse9","texto","BANCO FALABELLA ","activa",!0],p,o),A.Y(["valor","pse10","texto","BANCO FINANDINA S.A. BIC","activa",!0],p,o),A.Y(["valor","pse11","texto","BANCO GNB SUDAMERIS","activa",!0],p,o),A.Y(["valor","pse12","texto","BANCO ITAU","activa",!0],p,o),A.Y(["valor","pse13","texto","BANCO PICHINCHA S.A.","activa",!0],p,o),A.Y(["valor","pse14","texto","BANCO POPULAR","activa",!0],p,o),A.Y(["valor","pse15","texto","BANCO SANTANDER COLOMBIA","activa",!0],p,o),A.Y(["valor","pse16","texto","BANCO DAVIVIENDA","activa",!0],p,o),A.Y(["valor","pse17","texto","BANCO SERFINANZA","activa",!0],p,o),A.Y(["valor","pse18","texto","BANCO UNION antes GIROS","activa",!0],p,o),A.Y(["valor","pse19","texto","BANCOLOMBIA","activa",!0],p,o),A.Y(["valor","pse20","texto","BANCOOMEVA S.A.","activa",!0],p,o),A.Y(["valor","pse21","texto","CFA COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse22","texto","CITIBANK ","activa",!0],p,o),A.Y(["valor","pse23","texto","COLTEFINANCIERA","activa",!0],p,o),A.Y(["valor","pse24","texto","CONFIAR COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse25","texto","COOFINEP COOPERATIVA FINANCIERA","activa",!0],p,o),A.Y(["valor","pse26","texto","COTRAFA","activa",!0],p,o),A.Y(["valor","pse27","texto","DALE","activa",!0],p,o),A.Y(["valor","pse28","texto","NEQUI","activa",!0],p,o),A.Y(["valor","pse29","texto","IRIS","activa",!0],p,o),A.Y(["valor","pse30","texto","LULO BANK","activa",!0],p,o),A.Y(["valor","pse31","texto","MOVII S.A.","activa",!0],p,o),A.Y(["valor","pse32","texto","RAPPIPAY","activa",!0],p,o),A.Y(["valor","pse33","texto","SCOTIABANK COLPATRIA","activa",!0],p,o),A.Y(["valor","pse34","texto","TARJETAS","activa",!0],p,o),A.Y(["valor","pse35","texto","PAGO CODIGO QR","activa",!0],p,o)],t.Mq)],p,t.JD)),$async$zI)
 case 2:A.dE("\u2705 Data PSE inicial creada exitosamente")
 return A.A(null,r)}})
 return A.B($async$zI,r)},
@@ -90225,19 +90225,19 @@ a=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.
 f=A.aD(A.b([new A.U(new A.M(0,0,5,0),f,a7),A.bk(e+"  "+d,a7,a7,a7,a7,a7,a7,a7,A.aE(c,a7,b,a7,A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a,0),a7,a7,a7)],j),B.o,B.m,0)
 e=A.c1(B.o3,(A.e(b5).ax.a===B.c?A.h():A.i()).gG(),a7,24)
 d=A.o(b3[b6].h(0,"TipoCliente"))
-c=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e)
-b=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
-b=A.bE().$2$fontStyle$fontWeight(A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,b)
+c=A.o(b3[b6].h(0,"Cedula"))
+b=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e)
 a=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
-e=A.aD(A.b([new A.U(new A.M(0,0,5,0),e,a7),A.bk(d,a7,a7,a7,a7,a7,a7,a7,A.aE(c,a7,b,a7,A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a,0),a7,a7,a7)],j),B.o,B.m,0)
+a=A.bE().$2$fontStyle$fontWeight(A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a)
+a0=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
+e=A.aD(A.b([new A.U(new A.M(0,0,5,0),e,a7),A.bk(d+": "+c,a7,a7,a7,a7,a7,a7,a7,A.aE(b,a7,a,a7,A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a0,0),a7,a7,a7)],j),B.o,B.m,0)
 d=A.LS(B.jQ,(A.e(b5).ax.a===B.c?A.h():A.i()).gG(),24)
 c=A.o(b3[b6].h(0,"CedulaTipo"))
-b=A.o(b3[b6].h(0,"Cedula"))
-a=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e)
+b=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e)
+a=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
+a=A.bE().$2$fontStyle$fontWeight(A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a)
 a0=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
-a0=A.bE().$2$fontStyle$fontWeight(A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a0)
-a1=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).w
-d=A.aD(A.b([new A.U(new A.M(0,0,5,0),d,a7),A.bk(c+" "+b,a7,a7,a7,a7,a7,a7,a7,A.aE(a,a7,a0,a7,A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a1,0),a7,a7,a7)],j),B.o,B.m,0)
+d=A.aD(A.b([new A.U(new A.M(0,0,5,0),d,a7),A.bk(c+" ",a7,a7,a7,a7,a7,a7,a7,A.aE(b,a7,a,a7,A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e).x,a0,0),a7,a7,a7)],j),B.o,B.m,0)
 c=A.c1(B.jU,(A.e(b5).ax.a===B.c?A.h():A.i()).gG(),a7,24)
 b=A.o(b3[b6].h(0,"Email"))
 a=A.m().$3$color$fontSize$fontWeight((A.e(b5).ax.a===B.c?A.h():A.i()).gG(),14,B.e)
@@ -90547,7 +90547,7 @@ n=$.as
 m=(n==null?$.as=$.bF():n).bn("[DEFAULT]")
 A.bb(m,$.bD(),!0)
 p=A.c0(new A.bv(m)).bv(o).bq(A.o(q.b[q.c].h(0,"Id")))
-n=A.cX(A.Y(["Estado","Email","Color","BlueGrey","Imagen",u.G],t.K,t.X))
+n=A.cX(A.Y(["Estado","Email","Color","BlueGrey","Imagen","https://i.postimg.cc/RhH5ZXZf/Screenshot-200.jpg"],t.K,t.X))
 n.toString
 p.a.aL(0,n)
 return A.A(null,r)}})
